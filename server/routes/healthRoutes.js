@@ -1,0 +1,10 @@
+import { Router } from "express";
+import { healthController } from "../controllers/healthController.js";
+import { authMiddleware } from "../middleware/authMiddleware.js";
+const router = Router();
+router.get("/records", authMiddleware, healthController.getRecords);
+router.post("/records", authMiddleware, healthController.addRecord);
+router.delete("/records/:id", authMiddleware, healthController.deleteRecord);
+router.post("/predict", authMiddleware, healthController.predictRisk);
+router.get("/cycle-summary", authMiddleware, healthController.getCycleSummary);
+export default router;

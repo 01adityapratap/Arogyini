@@ -1,0 +1,35 @@
+================================================================================
+AROGYINI DOMAIN KNOWLEDGE CORPUS - WOMEN EMPOWERMENT, HEALTH & LEGAL RIGHTS
+================================================================================
+
+[DOCUMENT 1: POSH ACT 2013]
+The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+- Applicability: Every workplace with 10 or more employees must constitute an Internal Complaints Committee (ICC).
+- Composition: Presiding officer must be a senior woman employee. Half of the members must be women. Must include an external independent NGO/legal member.
+- Jurisdiction: Extends beyond physical premises to virtual spaces, Slack, Microsoft Teams, WhatsApp, official transport, and client locations.
+- Filing Timeline: Complaint must be filed within 3 months of the date of the incident (extendable by up to another 3 months by ICC with recorded reasons).
+- Inquiry Timeline: Inquiry must be completed strictly within 90 days.
+- Interim Relief: Complainant may request up to 3 months paid leave (in addition to normal leave) or transfer of respondent.
+- Confidentiality: Section 16 penalizes publication or leaking of the complainant or witness identities.
+
+[DOCUMENT 2: PROTECTION OF WOMEN FROM DOMESTIC VIOLENCE ACT (PWDVA 2005)]
+- Objective: Provides civil remedies and immediate protection against physical, emotional, verbal, sexual, and economic violence in domestic relationships.
+- Right to Reside: Section 17 secures the non-negotiable right of every woman in a domestic relationship to reside in the shared household.
+- Protection Orders: Section 18 grants ex-parte orders restraining the respondent from committing acts of domestic violence, entering places of employment, or contacting the victim.
+- Monetary Relief: Section 20 provides for medical expenses, loss of earnings, and maintenance for the victim and her children.
+
+[DOCUMENT 3: ZERO FIR & CRIMINAL JURISDICTION (BNSS / CrPC)]
+- Definition: A Zero FIR enables an aggrieved individual to register a First Information Report at any police station across India, regardless of where the incident occurred.
+- Arrest & Interrogation Rules: A woman cannot be arrested between sunset and sunrise except under exceptional circumstances with prior Magistrate permission. Interrogation of a woman must occur at her residence in the presence of family members or women officers.
+- Helplines: Emergency Response 112, Women in Distress 181, Women Police Helpline 1091, Cyber Crime 1930.
+
+[DOCUMENT 4: WOMEN HEALTH - PCOS, ENDOCRINE & NUTRITIONAL PROTOCOLS]
+- Diagnostic Markers: PCOS is clinically identified using Rotterdam criteria (irregular cycles, hyperandrogenism, polycystic ovaries on ultrasound).
+- Nutritional Guidelines: Low-glycemic dietary regime, myo-inositol supplementation, balanced protein intake, and consistent resistance exercise.
+- Anemia Screening: Hemoglobin below 12.0 g/dL requires dietary iron combined with Vitamin C for optimal bioavailability. Avoid tea/coffee within 90 mins of meals.
+
+[DOCUMENT 5: MATERNITY BENEFIT ACT 2017 & CAREER RETURNSHIP]
+- 26 weeks paid maternity leave for the first two children.
+- Mandatory crèche facility for establishments employing 50+ workers with 4 daily visits.
+- Anti-dismissal protection under Section 12 during maternity leave.
+- Returnship programs provide 3 to 6 months of paid transitional onboarding for women resuming careers after personal gaps.
